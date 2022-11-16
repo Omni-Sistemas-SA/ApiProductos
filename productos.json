@@ -1,0 +1,66 @@
+[
+    {
+        "id": "1",
+        "urlImagen": "./img/productos/mercurio.png",
+        "nombre": "Hamburguesa Mercurio",
+        "descripcion": "S150 Gr de carne mixta enrollada en queso chedar con cebolla caramelizada, verduras, pan con ajonjoli, tostones de plátano. Salsas de la casa",
+        "precio": 15000,
+        "cantidad": 100
+    },
+    {
+        "id": "2",
+        "urlImagen": "./img/productos/venus.png",
+        "nombre": "Hamburguesa Venus",
+        "descripcion": "S150 Gr de carne mixta enrollada en queso chedar con cebolla caramelizada, verduras, pan con ajonjoli, tostones de plátano. Salsas de la casa",
+        "precio": 12000,
+        "cantidad": 100
+    },
+    {
+        "id": "3",
+        "urlImagen": "./img/productos/tierra.png",
+        "nombre": "Hamburguesa Tierra",
+        "descripcion": "S150 Gr de carne mixta enrollada en queso chedar con cebolla caramelizada, verduras, pan con ajonjoli, tostones de plátano. Salsas de la casa",
+        "precio": 10000,
+        "cantidad": 100
+    },
+    {
+        "id": "4",
+        "urlImagen": "./img/productos/marte.png",
+        "nombre": "Hamburguesa Marte",
+        "descripcion": "S150 Gr de carne mixta enrollada en queso chedar con cebolla caramelizada, verduras, pan con ajonjoli, tostones de plátano. Salsas de la casa",
+        "precio": 11000,
+        "cantidad": 100
+    },
+    {
+        "id": "5",
+        "urlImagen": "./img/productos/jupiter.png",
+        "nombre": "Hamburguesa Jupiter",
+        "descripcion": "S150 Gr de carne mixta enrollada en queso chedar con cebolla caramelizada, verduras, pan con ajonjoli, tostones de plátano. Salsas de la casa",
+        "precio": 13900,
+        "cantidad": 100
+    },
+    {
+        "id": "6",
+        "urlImagen": "./img/productos/saturno.png",
+        "nombre": "Hamburguesa Saturno",
+        "descripcion": "S150 Gr de carne mixta enrollada en queso chedar con cebolla caramelizada, verduras, pan con ajonjoli, tostones de plátano. Salsas de la casa",
+        "precio": 14500,
+        "cantidad": 100
+    },
+    {
+        "id": "7",
+        "urlImagen": "./img/productos/urano.png",
+        "nombre": "Hamburguesa Urano",
+        "descripcion": "S150 Gr de carne mixta enrollada en queso chedar con cebolla caramelizada, verduras, pan con ajonjoli, tostones de plátano. Salsas de la casa",
+        "precio": 12000,
+        "cantidad": 100
+    },
+    {
+        "id": "8",
+        "urlImagen": "./img/productos/neptuno.png",
+        "nombre": "Hamburguesa Neptuno",
+        "descripcion": "S150 Gr de carne mixta enrollada en queso chedar con cebolla caramelizada, verduras, pan con ajonjoli, tostones de plátano. Salsas de la casa",
+        "precio": 11500,
+        "cantidad": 100
+    }
+]
