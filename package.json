@@ -1,0 +1,25 @@
+{
+  "name": "apiproductos",
+  "version": "1.0.0",
+  "description": "Api para gestionar los productos de la pagina Omniburger",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Omni-Sistemas-SA/ApiProductos.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Omni-Sistemas-SA/ApiProductos/issues"
+  },
+  "homepage": "https://github.com/Omni-Sistemas-SA/ApiProductos#readme",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "path": "^0.12.7"
+  }
+}
